@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[happy happier happiest birthday maniiiiiii],
 
 Your personalized birthday message goes here.
 
@@ -25,7 +25,7 @@ so feel free to customize it completely to fit your style.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [my love]`;
 
   // Handle page transitions
   useEffect(() => {
